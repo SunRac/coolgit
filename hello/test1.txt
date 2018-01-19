@@ -1,4 +1,0 @@
-
-i hello vim
-who am i
-pwd man help
